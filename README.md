@@ -1,2 +1,3 @@
 # UIDE-Trabajos
-Aqui se mostraran los trabajos de la materia: lógica de la programación
+Aqui se mostra el avance con respecto al uego snake en la materia de la lógica de la programación
+El objetivo es poder jugar a "snake" como normalmente sejugaria de forma retro.
