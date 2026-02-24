@@ -1,4 +1,4 @@
-###UIDE-Trabajos-Lógica de la programaciòn
+##UIDE-Trabajos-Lógica de la programaciòn
 ## Juego Snake en Python
 ### Descripción:
 Este proyecto consiste en el desarrollo del clásico juego Snake utilizando el lenguaje de programación Python y las librerías estándar turtle (para la interfaz gráfica) y random (para la generación aleatoria de la comida).
